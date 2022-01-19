@@ -3,6 +3,7 @@ import "./App.css";
 import Header from "./Components/Header";
 import IslandForm from "./Components/IslandForm";
 import IslandList from "./Components/IslandList";
+import islands from "./data/islands";
 
 function App() {
   let boubyanIsland = {
